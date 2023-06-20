@@ -18,3 +18,6 @@ a <- 2
 
 #potencia
 a^2
+
+#raiz cuadrada
+sqrt(36)
