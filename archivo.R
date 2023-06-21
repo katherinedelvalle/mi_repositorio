@@ -10,3 +10,6 @@
 #multiplicacion
 
 2*5
+
+#division
+4/2
