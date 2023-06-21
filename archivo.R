@@ -6,3 +6,7 @@
 
 #resta
 25-10
+
+#multiplicacion
+
+2*5
