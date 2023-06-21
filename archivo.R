@@ -21,3 +21,6 @@ a^2
 
 #raiz cuadrada
 sqrt(36)
+
+#suma total
+9+4
