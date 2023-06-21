@@ -13,5 +13,5 @@
 #division
 4/2
 
-#potencia
-4^2
+#asignacion
+a <- 2
