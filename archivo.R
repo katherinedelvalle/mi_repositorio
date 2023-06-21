@@ -15,3 +15,6 @@
 
 #asignacion
 a <- 2
+
+#potencia
+a^2
